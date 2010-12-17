@@ -5,7 +5,7 @@ body
         font-size:50px;    /*the body content font .ok*/
         text-align:center;/*content center.ok*/
     }
-DIV{position:absolute ;left:20px;right:20px;}
+DIV{position:absolute;height:100px;left:20px;right:20px;}
 .example
     {
        margin-left: 3%; 
