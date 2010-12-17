@@ -30,7 +30,13 @@ body
        {
         border-left: 0px;
         }
-        
+.font{
+        color:#009900;
+
+}        
+.border{
+        border:1px solid #000000;
+}
 #menu ul li a
         {
         background-color: transparent;
