@@ -1,7 +1,7 @@
 body
     {
-        margin-left: 200px;
-        margin-right: 200px;
+        margin-left: auto;/*the two side wide.ok*/
+        margin-right: auto;
         font-size:50px;    /*the body content font .ok*/
         text-align:center;/*content center.ok*/
     }
@@ -40,4 +40,9 @@ body
         font-weight: bold;
         }
         
+#container{/*需要居中的容器*/
+        width:700px;
+        margin:auto 0;
+        border:7px solid gray;/*width:center unchange with */
 
+}
