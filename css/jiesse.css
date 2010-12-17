@@ -1,8 +1,9 @@
 body
     {
-        margin-left: 50px;
-        margin-right: 50px;
-    
+        margin-left: auto;
+        margin-right: auto;
+        font-size:20px;
+        text-align:center;/*content center*/
     }
 .example
     {
