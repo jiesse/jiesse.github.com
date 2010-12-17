@@ -40,9 +40,9 @@ body
         font-weight: bold;
         }
         
-#container{/*需要居中的容器*/
+#container{/*需要居中的容器:ok*/
         width:700px;
         margin:auto 0;
-        border:7px solid gray;/*width:center unchange with */
+        border:7px solid #000000;/*width:center unchange with :ok*/
 
 }
