@@ -1,0 +1,49 @@
+<html>
+       <head>
+            <title>jiessecorner</title>
+            <link rel="stylesheet" type="text/css"
+            href="./css/jiesse.css"/>
+            <style>
+            body
+            {
+                background:#fff;
+                font-family: Helvetica Neue, Arial,sans-serif
+                    margin-left: 15px;
+            }
+            h1{font-size: 120px;}
+            p{margin-top: 20px; font-size: 30px; }
+            
+            </style>
+
+       </head>
+          <body>
+            <h1>jiesse & corner</h1>
+            <p>THE NEW OF <a
+            href="http://github.com/jiesse">GITHUB</a>.</p>
+<br/>
+<br/>
+<p><pre>
+      _____________
+      |###########|
+      |###########|
+      |###########|
+((------------------------
+|\    //@@\   /@@\\
+ \\, /(    ) (    )\    ___ 
+  \\|  \__/   \__/ |   /,-,\ 
+   \"*  _________   \  || ""
+    \,  \^  U  ^/  /*=(  ) 
+      \,\       //'    ||
+       |\       //'    ||
+       |"------"\      ||
+      //\*-_-*\ ||     ||
+     //  "\__/"//      ||
+    //        //       ||
+   /-|\      /-|\
+</pre>
+</p>
+              </body>
+
+</html>
+
+
