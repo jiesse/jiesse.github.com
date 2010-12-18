@@ -5,11 +5,7 @@ body
         font-size:50px;    /*the body content font .ok*/
         text-align:center;/*content center.ok*/
     }
-DIV{position:float;height:35px;margin-left:20px;margin-right:20px;}/*ok*/
-.example
-    {
-       margin-left: 3%; 
-    
+DIV{position:float;height:35px;margin-left:40px;margin-right:4444;}/*ok*/
     }
 #menu
     {
